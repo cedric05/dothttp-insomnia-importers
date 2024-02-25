@@ -1,3 +1,11 @@
-# dothttp-insomnia-importers
+# Dothttp Insomnia Importer Package
+This package allows for importing Insomnia collections into Dothttp format.
 
-`dothttp` Import support for `insomnia collection 4`
+## Installation
+`pip install dothttp_insomnia_importer`
+
+## Usage
+
+`dothttp_insomnia_importer /path/to/insomnia/collection /path/to/dothttp/output`
+
+## Python Script
